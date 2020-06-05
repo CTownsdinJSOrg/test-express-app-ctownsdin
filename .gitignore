@@ -1,6 +1,5 @@
 node_modules
-DEVNOTES.txt
-  
+DEVNOTES.md
 ## Terraform
 terraform/.terraform/*
 terraform/*.tfstate

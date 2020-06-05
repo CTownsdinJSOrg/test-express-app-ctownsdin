@@ -1,5 +1,5 @@
-# later, try node alpine or slim
-FROM node:12
+# later, try node alpine
+FROM node:12-slim
 
 # Create app directory
 WORKDIR /usr/src/app
